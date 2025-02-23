@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Leo !
 
-Fullstack javascript developer based in france
+Fullstack javascript developer based in france<br/>
+![](https://komarev.com/ghpvc/?username=khoeos&abbreviated=true)
 
 ---
 
