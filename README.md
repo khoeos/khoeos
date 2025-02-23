@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Leo !
 
+Fullstack javascript developer based in france
+
+---
+
 ### 🔨 Projects
 
 - 🚀 [Paradox Translation Toolkit](https://github.com/khoeos/paradox-translation-toolkit) - Software to manage translation of paradox game's mods.
