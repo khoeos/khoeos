@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Leo !
 
 Fullstack javascript developer based in france<br/>
-![](https://komarev.com/ghpvc/?username=khoeos&abbreviated=true)
 
 ---
 
@@ -38,4 +37,5 @@ Fullstack javascript developer based in france<br/>
 ![Mail](https://img.shields.io/badge/contact@ljeanjean.me-grey?style=flat&logo=mail.ru&logoColor=ffffff) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/leo-jeanjean/)
 
+![](https://komarev.com/ghpvc/?username=khoeos&abbreviated=true)
 
