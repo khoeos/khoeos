@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Leo !
 
-I'm a fullstack developper based in france. 
-
-I mainly develop applications in Typescript/JavaScript, React and Next.js on the front, Node and Nest.js on the back.
-
----
-
 ### 🔨 Projects
 
 - 🚀 [Paradox Translation Toolkit](https://github.com/khoeos/paradox-translation-toolkit) - Software to manage translation of paradox game's mods.
