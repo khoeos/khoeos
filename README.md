@@ -34,7 +34,7 @@ Fullstack javascript developer based in france<br/>
 ### 📫 Contact
 [![logo-discord](https://img.shields.io/badge/khoeos-grey?style=flat&logo=discord)](https://discordapp.com/users/170144954964770816)
 [![logo-reddit](https://img.shields.io/badge/khoeos-grey?style=flat&logo=reddit)](https://www.reddit.com/user/khoeos/) <br/>
-![Mail](https://img.shields.io/badge/contact@ljeanjean.me-grey?style=flat&logo=mail.ru&logoColor=ffffff) 
+![Mail](https://img.shields.io/badge/contact@ljeanjean.io-grey?style=flat&logo=mail.ru&logoColor=ffffff) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/leo-jeanjean/)
 
 ![](https://komarev.com/ghpvc/?username=khoeos&abbreviated=true)
