@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Leo !
 
-Fullstack javascript developer based in france<br/>
+Fullstack developer based in france<br/>
 
 ---
 
