@@ -8,6 +8,7 @@ Fullstack developer based in france<br/>
 
 - 🚀 [Paradox Translation Toolkit](https://github.com/khoeos/paradox-translation-toolkit) - Software to manage translation of paradox game's mods.
 - 📄 [Yasow](https://github.com/khoeos/yasow) - Next.js starter kit to put online markdown content based on [Obsidian](https://obsidian.md/)'s structure
+- 🌊 [Wakfu.space](https://wakfu.space) - A Toolbox for wakfu
 
 ---
 
